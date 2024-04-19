@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "fz:ench_golden_apple"
+            }
+        }
+    },
+    "rewards": {
+        "function": "fz:ench_golden_apple"
+    }
+}

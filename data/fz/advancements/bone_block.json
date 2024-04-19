@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "fz:bone_block"
+            }
+        }
+    },
+    "rewards": {
+        "function": "fz:bone_block"
+    }
+}
